@@ -1,0 +1,16 @@
+{
+  "name": "cosmart",
+  "version": "1.0.0",
+  "description": "Luxury Cosmetics Website with Contentful CMS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "dependencies": {
+    "contentful": "^10.6.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
